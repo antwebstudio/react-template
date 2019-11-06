@@ -1,0 +1,30 @@
+/dist
+
+# yii console command
+/yii
+.env
+
+# windows thumbnail cache
+Thumbs.db
+
+# vendor dir
+/vendor
+/node_modules
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+
+# local phpunit config
+/phpunit.xml
+
+error_log
+
+#ctags
+.tags
+.tags*
